@@ -1,8 +1,11 @@
-img {
-    width: 1900px;
-}
 
 body {
-    text-align: center
-    ;
-    font-family: arial
+text-align: center;
+font-family: arial;
+}
+
+p {
+  text-align: center;
+font-family: arial;  
+color:red;
+}
